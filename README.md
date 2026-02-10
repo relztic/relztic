@@ -1,4 +1,4 @@
-I am a Senior Software Engineer with extensive experience in the field since 2014—most recently in the health tech market, where I’ve gained a deep understanding of industry-specific workflows and requirements.
+I am a Senior Software Engineer with extensive experience in the field since 2014—most recently in the Health Tech market, where I’ve gained a deep understanding of industry-specific workflows and requirements.
 
 Over the years, I have worked across the full stack, both back-end and front-end, tailoring my approach to meet different clients' needs. My expertise ranges from complex data migrations to building custom web applications.
 
