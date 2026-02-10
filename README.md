@@ -8,7 +8,7 @@ Technical Proficiencies:
 - Front-end: React, TypeScript, Jest, Vite
 - Databases: MySQL, Firebase, Redis
 - Agile: Kanban, Scrum
-- AI Agents: GPT-4/5, Claude Sonnet, Gemini
+- AI Models: GPT-4/5, Claude Sonnet, Gemini
 - DevOps: Docker, GitHub Actions, CI/CD, Unleash (Feature Flagging)
 - Misc: Okta, Amazon QuickSight, Document Exports (.pdf, .xlsx)
 
