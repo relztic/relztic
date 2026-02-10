@@ -1,16 +1,15 @@
-## Hi there 👋
+I am a Senior Software Engineer with extensive experience in the field since 2014—most recently in the health tech market, where I’ve gained a deep understanding of industry-specific workflows and requirements.
 
-<!--
-**relztic/relztic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Over the years, I have worked across the full stack, both back-end and front-end, tailoring my approach to meet different clients' needs. My expertise ranges from complex data migrations to building custom web applications.
 
-Here are some ideas to get you started:
+Technical Proficiencies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Back-end: PHP, Node.js, Golang
+- Front-end: React, TypeScript, Jest, Vite
+- Databases: MySQL, Firebase, Redis
+- Agile: Kanban, Scrum
+- AI Agents: GPT-4/5, Claude Sonnet, Gemini
+- DevOps: Docker, GitHub Actions, CI/CD, Unleash (Feature Flagging)
+- Misc: Okta, Amazon QuickSight, Document Exports (.pdf, .xlsx)
+
+I look forward to exploring opportunities where we can achieve mutual success.
