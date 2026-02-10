@@ -8,8 +8,10 @@ Technical Proficiencies:
 - Front-end: React, TypeScript, Jest, Vite
 - Databases: MySQL, Firebase, Redis
 - Agile: Kanban, Scrum
-- AI Models: GPT-4/5, Claude Sonnet, Gemini
 - DevOps: Docker, GitHub Actions, CI/CD, Unleash (Feature Flagging)
 - Misc: Okta, Amazon QuickSight, Document Exports (.pdf, .xlsx)
+- AI Agents: GitHub Copilot, Claude Code
+- AI Models: GPT-4o/5, Claude Sonnet, Gemini
+- Code Analysis: CodeQL, Checkmarx
 
 I look forward to exploring opportunities where we can achieve mutual success.
