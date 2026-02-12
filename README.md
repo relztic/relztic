@@ -7,7 +7,7 @@ Technical Proficiencies:
 - Back-end: PHP, Node.js, Golang
 - Front-end: React, TypeScript, Jest, Vite
 - Databases: MySQL, Firebase, Redis
-- Frameworks: Traditional (Waterfall), Agile (Kanban, Scrum)
+- Workflows: Traditional (Waterfall), Agile (Kanban, Scrum)
 - DevOps: Docker, GitHub Actions, CI/CD, Unleash (Feature Flagging)
 - Misc: Okta, Amazon QuickSight, Document Exports (.pdf, .xlsx)
 - AI Agents: GitHub Copilot, Claude Code
