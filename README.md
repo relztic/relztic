@@ -2,7 +2,7 @@ I am a Senior Software Engineer with extensive experience in the field since 201
 
 Over the years, I have worked across the full stack, both back-end and front-end, tailoring my approach to meet different clients' needs. My expertise ranges from complex data migrations to building custom web applications.
 
-Technical Proficiencies:
+Technical Skills:
 
 - Back-end: PHP, Node.js, Golang
 - Front-end: React, TypeScript, Jest, Vite
