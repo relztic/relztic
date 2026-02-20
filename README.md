@@ -6,7 +6,7 @@ migrations to building user-centric web applications.
 ⚡️ Whether I'm refactoring a legacy codebase or architecting a new system from scratch, I focus on building scalable  
 solutions that meet specific client needs without sacrificing performance.
 
-🤖 Currently playing with new AI tools to stay up-to date with the latest trends, in order to implement them in projects  
+🤖 Currently playing with new AI tools to stay up to date with the latest trends, in order to implement them in projects  
 I work on. Please be mindful, we as developers still have liability over AI-generated code.
 
 🌱 When I'm not in front of a screen, I love to take care of my 5 cats (RIP Sylvester), water my plants, bake delicious  
