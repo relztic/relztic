@@ -1,4 +1,4 @@
-🪄 I'm a Full-Stack Wizard with extensive experience in the field since 2014—most recently in the Health Tech market,  
+🧙🏾‍♂️ I'm a Full-Stack Wizard with extensive experience in the field since 2014—most recently in the Health Tech market,  
 where I've gained deep understanding of industry-specific requirements. Over the years, I have worked on both  
 back-end and front-end, tailoring my approach to make use of my expertise, which goes from high-integrity data  
 migrations to building user-centric web applications.
