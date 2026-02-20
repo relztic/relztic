@@ -13,5 +13,3 @@ projects I work on. Please be mindful, we as developers still have liability ove
 desserts (ask for my coconut flan recipe), play retro games on my CRT TV, and restore my BMW E92 M3.
 
 ✌🏾 I'm always open to discussing new challenges and high-impact opportunities.
-
-✉️ relztic@gmail.com
