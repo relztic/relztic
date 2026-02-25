@@ -16,7 +16,7 @@ desserts (ask for my coconut flan recipe), play retro games on my CRT TV, and re
 
 ☎️ I'm always open to discussing new challenges and high-impact opportunities.
 
-### 💎 Top skills
+## 💎 Top skills
 
 ![React.js](https://img.shields.io/badge/-React.js-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
