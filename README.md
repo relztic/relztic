@@ -14,7 +14,7 @@ projects I work on. Please be mindful, we as developers still have liability ove
 🌱 When I'm not in front of a screen, I love to take care of my 5 cats (RIP Sylvester), water my plants, bake delicious  
 desserts (ask for my coconut flan recipe), play retro games on my CRT TV, and restore my BMW E92 M3.
 
-☎️ I'm always open to discussing new challenges and high-impact opportunities.
+☎️ I'm always open to discussing new challenges and potential opportunities.
 
 ## 💎 Top skills
 
