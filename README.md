@@ -4,13 +4,13 @@
 
 ⚡️ Whether I'm refactoring a legacy codebase or architecting a new system from scratch, I focus on building scalable solutions that meet specific client needs without sacrificing performance.
 
-🤖 I believe AI is reshaping the future of software development, but a sophisticated prediction model cannot replace the judgement of a human being. That's why we as engineers will always have liability over AI-generated code.
+🤖 I believe AI is reshaping the future of software development, but a sophisticated prediction model cannot replace the judgment of a human being. That's why engineers will always have liability over AI-generated code.
 
 🌱 When I'm not in front of a screen, I love to take care of my 5 cats (RIP Sylvester), water my plants, bake delicious desserts (ask for my coconut flan recipe), play retro games on my CRT TV, and restore my BMW E92 M3.
 
 ☎️ I'm always open to discussing new challenges and potential opportunities.
 
-## 💎 Top skills
+## 💎 Top Skills
 
 [![SQL](https://img.shields.io/badge/SQL-F29111?style=for-the-badge&logo=mysql&logoColor=white)](https://www.sql.org/)
 [![Go](https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
