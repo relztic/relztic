@@ -15,5 +15,5 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Go](https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+[![React.js](https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-8B5CF6?style=for-the-badge&logo=obsidian&logoColor=white)](https://obsidian.md/)
