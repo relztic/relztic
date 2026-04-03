@@ -1,6 +1,6 @@
 # Hi, my name's Ariel! ✌🏾
 
-🧙🏾‍♂️ Senior Software Engineer with extensive experience since 2014—most recently in the Health Tech market, where I've gained a deep understanding of industry-specific requirements. Over the last decade, I've worked on both back-end and front-end projects, tailoring my approach to enhance my expertise, which goes from high-integrity data migrations to building user-centric web applications.
+🧙🏾‍♂️ Senior Software Engineer with extensive experience since 2014—most recently in the Health Tech market, where I've gained a deep understanding of industry-specific requirements. Over the last decade, I've worked on both back-end and front-end projects, tailoring my approach to enhance my expertise, ranging from high-integrity data migrations to building user-centric web applications.
 
 ⚡️ Whether I'm refactoring a legacy codebase or architecting a new system from scratch, I focus on building scalable solutions that meet specific client needs without sacrificing performance.
 
