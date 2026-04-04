@@ -1,12 +1,12 @@
 # Hi, my name's Ariel! ✌🏾
 
-🧙🏾‍♂️ Senior Software Engineer with extensive experience since 2014—most recently in the Health Tech market, where I've gained a deep understanding of industry-specific requirements. Over the last decade, I've worked on both back-end and front-end projects, tailoring my approach to enhance my expertise, ranging from high-integrity data migrations to building user-centric web applications.
+🧙🏾‍♂️ Senior Software Engineer with extensive experience since 2014—most recently in the Health Tech market, where I've gained a deep understanding of industry-specific requirements. Over the last decade, I've worked on both back-end and front-end projects, ranging from high-integrity data migrations to building polished web applications.
 
-⚡️ Whether I'm refactoring a legacy codebase or architecting a new system from scratch, I focus on building scalable solutions that meet specific client needs without sacrificing performance.
+⚡️ Whether I'm refactoring a legacy codebase or architecting a new system from scratch, I focus on building scalable solutions that meet specific client needs while optimizing for long-term performance.
 
-🤖 I believe AI is reshaping the future of software development, but a sophisticated prediction model cannot replace the judgment of a human being. That's why engineers will always have liability over AI-generated code.
+🤖 I believe AI is reshaping the future of software development, but a sophisticated prediction model cannot replace the judgment of a human being. We engineers will always have liability over AI-generated code.
 
-🌱 When I'm not in front of a screen, I love to take care of my 5 cats (RIP Sylvester), water my plants, bake delicious desserts (ask for my coconut flan recipe), play retro games on my CRT TV, and restore my BMW E92 M3.
+🌱 When I'm not in front of a screen, I love to take care of my 5 cats, water my plants, bake delicious desserts (ask for my coconut flan recipe), play retro games on my CRT TV, and restore my BMW E92 M3.
 
 ☎️ I'm always open to discussing new challenges and potential opportunities.
 
