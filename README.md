@@ -6,7 +6,7 @@
 
 🤖 I believe AI is reshaping the future of software development, but a sophisticated prediction model cannot replace the judgment of a human being. We engineers will always have liability over AI-generated code.
 
-🌱 When I'm not in front of a screen, I love to take care of my 5 cats, water my plants, bake delicious desserts (ask for my coconut flan recipe), play tennis, do professional photography, and restore my BMW E92 M3.
+🌱 When I'm not in front of a screen, I love to take care of my 5 cats, water my plants, bake delicious desserts (ask for my coconut flan recipe), play tennis, learn photography, and restore my BMW E92 M3.
 
 ☎️ I'm always open to discussing new challenges and potential opportunities.
 
