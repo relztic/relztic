@@ -1,4 +1,4 @@
-# Hi, my name's Ariel! ✌🏾
+# Hi, my name's Ariel! 🖖🏾
 
 🧙🏾‍♂️ Senior Software Engineer with 10+ years of experience architecting enterprise-grade systems. Specialist in Health Tech, focusing on high-integrity data migrations and high-performance applications using Go, TypeScript, and React.js. Passionate about clean code, system design, and database optimization to translate complex back-end logic into intuitive front-end experiences.
 
