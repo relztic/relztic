@@ -1,7 +1,7 @@
 # Hi, my name's Ariel! 🖖🏾
 
-🧙🏾‍♂️ Senior Software Engineer with 10+ years of experience architecting enterprise-grade systems. Specialist in HealthTech,  
-focusing on high-integrity data migrations and high-performance applications using Go, TypeScript, and React.js. Passionate about clean code, system design, and database optimization to translate complex back-end logic into intuitive front-end experiences.
+🧙🏾‍♂️ Senior Full-Stack Engineer with 10+ years of experience architecting enterprise-grade systems. Specialist in HealthTech,  
+focusing on high-integrity data migrations and high-performance applications using PostgreSQL, Go, Node.js, TypeScript, and React.js. Passionate about clean code, system design, and database optimization to translate complex back-end logic into intuitive front-end experiences.
 
 ⚡️ Whether I'm refactoring a legacy codebase or engineering a new application from scratch, I focus on building scalable solutions that meet specific client needs while optimizing for long-term performance.
 
@@ -13,8 +13,8 @@ focusing on high-integrity data migrations and high-performance applications usi
 
 ## 💎 Top Skills
 
-[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white)](https://aws.amazon.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Go](https://img.shields.io/badge/Go-007D9C?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React.js](https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
