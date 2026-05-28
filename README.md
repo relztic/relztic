@@ -1,7 +1,7 @@
 # Hi, my name's Ariel! 🖖🏾
 
-🧙🏾‍♂️ Senior Full-Stack Engineer with 10+ years of experience architecting enterprise-grade systems. Specialist in HealthTech,  
-focusing on high-integrity data migrations and high-performance applications using PostgreSQL, Go, Node.js, TypeScript, and React.js as my main stack. Passionate about clean code, system design, and database optimization to translate complex back-end logic into intuitive front-end experiences.
+🧙🏾‍♂️ Senior Full-Stack Engineer with 10+ years of experience architecting enterprise-grade systems.  
+Specialist in HealthTech, focusing on high-integrity data migrations and high-performance applications using PostgreSQL, Go, Node.js, TypeScript, and React.js as my main stack. Passionate about clean code, system design, and database optimization to translate complex back-end logic into intuitive front-end experiences.
 
 ⚡️ Whether I'm refactoring a legacy codebase or engineering a new application from scratch, I focus on building scalable solutions that meet specific client needs while optimizing for long-term performance.
 
