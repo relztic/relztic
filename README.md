@@ -4,7 +4,7 @@
 
 ⚡️ Whether I'm refactoring a legacy codebase or engineering a new application from scratch, I focus on building scalable solutions that meet specific client needs while optimizing for long-term performance.
 
-🤖 I believe AI/LLMs are reshaping the future of software development, but a sophisticated prediction model cannot replace the judgment of a human being. We will always be held accountable for AI-generated code.
+🤖 I believe LLMs are reshaping the future of software development, but a sophisticated prediction model cannot replace the judgment of a human being. We will always be held accountable for AI-generated code.
 
 🌱 When I'm not in front of a screen, I love to take care of my 5 cats, water my plants, bake delicious desserts (ask for my coconut flan recipe), play tennis, learn photography, and restore my BMW E92 M3.
 
