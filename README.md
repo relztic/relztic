@@ -2,11 +2,11 @@
 
 🧙🏾‍♂️ Senior Software Engineer with 10+ years of experience architecting enterprise-grade systems. Specialist in HealthTech, focusing on high-integrity data migrations and high-performance applications using PostgreSQL, Go, Node.js, TypeScript, and React.js as my main stack. Passionate about clean code, system design, and database optimization to translate complex back-end logic into intuitive front-end experiences.
 
-⚡️ Whether I'm refactoring a legacy codebase or engineering a new application from scratch, I focus on building scalable solutions that meet specific client needs while optimizing for long-term performance.
+⚡️ Whether I'm refactoring a legacy codebase or engineering a new application from scratch, I focus on building scalable solutions that meet specific client needs while optimizing for long-term performance/reliability.
 
 🤖 I believe LLMs are reshaping the future of software development, but a sophisticated prediction model cannot replace the judgment of a human being. We will always be held accountable for AI-generated code.
 
-🌱 When I'm not in front of a screen, I love to take care of my 5 cats, water my plants, bake delicious desserts (ask for my coconut flan recipe), play tennis, learn photography, and restore my BMW E92 M3.
+🌱 When I'm not in front of a screen, I love to take care of my 5 cats, water my plants, bake delicious desserts (ask for my coconut flan recipe), play tennis, learn photography, play drums/piano, and restore my BMW E92 M3.
 
 ☎️ I'm always open to discussing new challenges and potential opportunities.
 
