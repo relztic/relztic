@@ -17,3 +17,5 @@
 [![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React.js](https://img.shields.io/badge/React.js-61DBFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
+
+> Take 🎂, Folks! 🌮 🐴 💨
